@@ -1,2 +1,2 @@
 # airlink-messenger.github.io
-AirLink - стандартный мессенджер!
+AirLink - современость не ждет, а мы идем дальше.
