@@ -1,2 +1,2 @@
-# airlink.github.io
+# airlink-messenger.github.io
 AirLink - стандартный мессенджер!
